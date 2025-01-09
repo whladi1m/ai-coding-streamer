@@ -1,2 +1,3 @@
-# ai-coding-streamer
-Ai coding streamer in python (with chatgpt)
+# Ai coding streamer
+
+Ai coding streamer written in python, uses chat gpt.
